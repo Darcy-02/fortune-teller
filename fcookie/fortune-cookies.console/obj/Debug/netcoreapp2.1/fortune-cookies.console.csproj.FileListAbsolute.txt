@@ -1,0 +1,17 @@
+C:\Users\rssb\Dada-projects\fcookie\fortune-cookies.console\obj\Debug\netcoreapp2.1\fortune-cookies.console.csproj.AssemblyReference.cache
+C:\Users\rssb\Dada-projects\fcookie\fortune-cookies.console\obj\Debug\netcoreapp2.1\fortune-cookies.console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rssb\Dada-projects\fcookie\fortune-cookies.console\obj\Debug\netcoreapp2.1\fortune-cookies.console.AssemblyInfoInputs.cache
+C:\Users\rssb\Dada-projects\fcookie\fortune-cookies.console\obj\Debug\netcoreapp2.1\fortune-cookies.console.AssemblyInfo.cs
+C:\Users\rssb\Dada-projects\fcookie\fortune-cookies.console\obj\Debug\netcoreapp2.1\fortune-cookies.console.csproj.CoreCompileInputs.cache
+C:\Users\rssb\Dada-projects\fcookie\fortune-cookies.console\bin\Debug\netcoreapp2.1\fortune-cookies.console.deps.json
+C:\Users\rssb\Dada-projects\fcookie\fortune-cookies.console\bin\Debug\netcoreapp2.1\fortune-cookies.console.runtimeconfig.json
+C:\Users\rssb\Dada-projects\fcookie\fortune-cookies.console\bin\Debug\netcoreapp2.1\fortune-cookies.console.runtimeconfig.dev.json
+C:\Users\rssb\Dada-projects\fcookie\fortune-cookies.console\bin\Debug\netcoreapp2.1\fortune-cookies.console.dll
+C:\Users\rssb\Dada-projects\fcookie\fortune-cookies.console\bin\Debug\netcoreapp2.1\fortune-cookies.console.pdb
+C:\Users\rssb\Dada-projects\fcookie\fortune-cookies.console\bin\Debug\netcoreapp2.1\fortune-cookies.dll
+C:\Users\rssb\Dada-projects\fcookie\fortune-cookies.console\bin\Debug\netcoreapp2.1\fortune-cookies.pdb
+C:\Users\rssb\Dada-projects\fcookie\fortune-cookies.console\bin\Debug\netcoreapp2.1\fortune-cookies.xml
+C:\Users\rssb\Dada-projects\fcookie\fortune-cookies.console\obj\Debug\netcoreapp2.1\fortune-.AA8FCAEB.Up2Date
+C:\Users\rssb\Dada-projects\fcookie\fortune-cookies.console\obj\Debug\netcoreapp2.1\fortune-cookies.console.dll
+C:\Users\rssb\Dada-projects\fcookie\fortune-cookies.console\obj\Debug\netcoreapp2.1\fortune-cookies.console.pdb
+C:\Users\rssb\Dada-projects\fcookie\fortune-cookies.console\obj\Debug\netcoreapp2.1\fortune-cookies.console.genruntimeconfig.cache

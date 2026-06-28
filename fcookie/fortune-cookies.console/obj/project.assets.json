@@ -1,0 +1,97 @@
+{
+  "version": 4,
+  "targets": {
+    "net7.0": {
+      "fortune-cookies/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/fortune-cookies.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/fortune-cookies.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "fortune-cookies/1.0.0": {
+      "type": "project",
+      "path": "../fortune-cookies/fortune-cookies.csproj",
+      "msbuildProject": "../fortune-cookies/fortune-cookies.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "fortune-cookies >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\rssb\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\rssb\\Dada-projects\\fortune-teller\\fcookie\\fortune-cookies.console\\fortune-cookies.console.csproj",
+      "projectName": "fortune-cookies.console",
+      "projectPath": "C:\\Users\\rssb\\Dada-projects\\fortune-teller\\fcookie\\fortune-cookies.console\\fortune-cookies.console.csproj",
+      "packagesPath": "C:\\Users\\rssb\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rssb\\Dada-projects\\fortune-teller\\fcookie\\fortune-cookies.console\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\rssb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "framework": "net7.0",
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\rssb\\Dada-projects\\fortune-teller\\fcookie\\fortune-cookies\\fortune-cookies.csproj": {
+              "projectPath": "C:\\Users\\rssb\\Dada-projects\\fortune-teller\\fcookie\\fortune-cookies\\fortune-cookies.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.300"
+    },
+    "frameworks": {
+      "net7.0": {
+        "framework": "net7.0",
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

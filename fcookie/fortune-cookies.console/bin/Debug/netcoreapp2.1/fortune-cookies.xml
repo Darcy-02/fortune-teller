@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>fortune-cookies</name>
+    </assembly>
+    <members>
+        <member name="T:FortuneCookies.FortuneCookie">
+            <summary>Cracks open a fortune cookie and returns fortunes, colours, and animals by lucky number.</summary>
+        </member>
+        <member name="M:FortuneCookies.FortuneCookie.GetFortune(System.Int32)">
+            <summary>Returns a fortune string for the given lucky number.</summary>
+        </member>
+        <member name="M:FortuneCookies.FortuneCookie.GetLuckyColor(System.Int32)">
+            <summary>Returns a lucky colour for the given lucky number.</summary>
+        </member>
+        <member name="M:FortuneCookies.FortuneCookie.GetLuckyAnimal(System.Int32)">
+            <summary>Returns a lucky animal for the given lucky number.</summary>
+        </member>
+        <member name="M:FortuneCookies.FortuneCookie.CrackOpen(System.Int32)">
+            <summary>Cracks open the full fortune cookie and returns all fields.</summary>
+        </member>
+    </members>
+</doc>

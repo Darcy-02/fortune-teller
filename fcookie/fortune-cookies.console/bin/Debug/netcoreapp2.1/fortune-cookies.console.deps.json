@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "fortune-cookies.console/1.0.0": {
+        "dependencies": {
+          "fortune-cookies": "1.0.0"
+        },
+        "runtime": {
+          "fortune-cookies.console.dll": {}
+        }
+      },
+      "fortune-cookies/1.0.0": {
+        "runtime": {
+          "fortune-cookies.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "fortune-cookies.console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "fortune-cookies/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

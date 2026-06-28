@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="fortune-cookies.console/fortune-cookies.console.csproj" />
+  <Project Path="fortune-cookies.tests/fortune-cookies.tests.csproj" />
+  <Project Path="fortune-cookies/fortune-cookies.csproj" />
+</Solution>
